@@ -1,1 +1,1 @@
-Student Course Management System
+Student Course Management System School Project
