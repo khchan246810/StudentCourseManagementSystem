@@ -1,1 +1,1 @@
-# Money-Management-Windows-Application
+Student Course Management System
